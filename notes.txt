@@ -1,0 +1,16 @@
+Lesson1:
+		-Predicate in java este o clasa functionala prin intermediul careia putem conditii ca si cum ar fi obiecte. Se potrivesc foarte bine cu streamurile
+		-streamurile reprezinta ca o copie a unui vector pe care se pot efectua operatii, fara a se altera v ectorul initial(imutabilitate -> nu se altereaza vectorul in sine, ci o copie a lui)
+		
+Lesson2:
+		-default este un keyword ca public protected sau private care subliniaza faptul ca un membru sau o metoda este vizibila/vizibil doar in acelasi pachet
+		-un pachet <=> folder => folosit pentru lizibilitate/structura/claritate a codului(clasa audi si bmw vor fi in packetul carBrands)
+		-clasa object este superclass pentru toate clasele din java
+		-clasa throwable --> Exception
+						 |_> Error
+		- cand dam catch la o exceptie dam catch la toate exceptiile sub clasa la care am dat catch
+		
+Lessson3:
+		-o clasa poate fi extinsa printr-o clasa anonima
+		-pentru a extinde o clasa printr-o functie lambda, clasa parinte trebuie sa fie o interfata functionala(daca nu e va trebui declarata explicit)
+		
