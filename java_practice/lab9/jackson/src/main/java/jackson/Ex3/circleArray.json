@@ -1,0 +1,8 @@
+[
+    {"radius": 5, "color": "RED"},
+    {"radius": 3, "color": "BLUE"},
+    {"radius": 7, "color": "GREEN"},
+    {"radius": 2, "color": "YELLOW"},
+    {"radius": 6, "color": "ORANGE"}
+]
+  

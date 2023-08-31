@@ -10,7 +10,12 @@ Lesson2:
 						 |_> Error
 		- cand dam catch la o exceptie dam catch la toate exceptiile sub clasa la care am dat catch
 		
-Lessson3:
+Lesson3:
 		-o clasa poate fi extinsa printr-o clasa anonima
 		-pentru a extinde o clasa printr-o functie lambda, clasa parinte trebuie sa fie o interfata functionala(daca nu e va trebui declarata explicit)
-		
+	
+Lesson4:
+		-putem transmite de la client catre backend date prin metoda get doar prin path params
+		-putem transmite de la client catre backend date prin metoda post prin mai multe formate(JSON, XML, etc...)
+		-prin @Produces ne referim la ce tip de media produce api-ul
+		-prin @Consumes precizam ce tip de media poate accepta api-ul
